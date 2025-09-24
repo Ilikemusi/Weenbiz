@@ -1,2 +1,3 @@
 # Weenbiz
 Weenbiz
+print('hello')
